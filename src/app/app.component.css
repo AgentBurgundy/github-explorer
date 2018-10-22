@@ -1,0 +1,26 @@
+.example-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+    color: gray;
+}
+.example-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.example-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.footer-content {
+    flex: 1 1 auto;
+    text-align: center;
+}

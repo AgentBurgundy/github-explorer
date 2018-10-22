@@ -1,0 +1,17 @@
+<div *ngIf="repository">
+
+  <div class="d-flex flex-row justify-content-center align-content-center">
+    <h1>{{ repository.full_name }}</h1>
+  </div>
+
+  <div class="mt-2 d-flex flex-row justify-content-center align-content-center" style="max-width: 500px; min-width: 500px;">
+    <span class="text-center mx-5" style="font-size: 1.3em">{{ repository.description }}</span>
+  </div>
+
+  <div class="mt-5 d-flex flex-row justify-content-center align-content-center" style="max-width: 500px; min-width: 500px;">
+    <div>
+      <button class="mr-4" mat-flat-button color="accent" (click)="navigateToRepo()">View this project</button>
+      <button class="ml-4" mat-flat-button color="accent" (click)="regenerate()">Something else</button>
+    </div>
+  </div>
+</div>

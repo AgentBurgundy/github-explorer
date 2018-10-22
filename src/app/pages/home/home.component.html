@@ -1,0 +1,42 @@
+<div class="d-flex flex-row justify-content-center align-content-center">
+  <h1>Welcome to GitHub Explorer</h1>
+</div>
+
+<div class="d-flex flex-row justify-content-center align-content-center">
+  <span>The easiest way to find your next <b>Open Source Addiction</b></span>
+</div>
+
+<div class="mt-5 d-flex flex-row justify-content-center align-content-center">
+  <mat-card class="mx-5">
+
+    <mat-card-title class="text-center">How it works</mat-card-title>
+
+    <mat-card-content class="mx-5 text-center">
+      <p>
+        Simply navigate to the <b>Random Repository</b> page and be 
+        greeted with a new repository for you to explore.
+      </p>
+    </mat-card-content>
+
+    <mat-card-actions class="text-center">
+      <button mat-flat-button color="accent" (click)="navigateToRandomRepo()">Find a Repository</button>
+    </mat-card-actions>
+  </mat-card>
+</div>
+
+<div class="mt-5 d-flex flex-row justify-content-center align-content-center">
+  <mat-card class="mx-5">
+
+    <mat-card-title class="text-center">This app is open source!</mat-card-title>
+
+    <mat-card-content class="mx-5 text-center">
+      <p>
+        Check out the repository and contribute.
+      </p>
+    </mat-card-content>
+
+    <mat-card-actions class="text-center">
+      <button mat-flat-button color="accent" (click)="navigateToSource()">View the Source</button>
+    </mat-card-actions>
+  </mat-card>
+</div>
