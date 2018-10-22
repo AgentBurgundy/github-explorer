@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'github-explore';
+
+  navigateToSource() {
+    window.open('https://github.com/AgentBurgundy/github-explorer', '_blank');
+  }
 }
