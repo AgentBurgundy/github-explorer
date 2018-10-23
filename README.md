@@ -1,6 +1,6 @@
 # Github Explorer
 
-![Explorer Man](./src/assets/explorer.svg | width=100)
+<img height="100" width="100" src="./src/assets/explorer.svg"/>
 
 ## Explore GitHub and find your newest Open Source obsession.
 
