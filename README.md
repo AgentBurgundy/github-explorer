@@ -2,7 +2,7 @@
 
 # Github Explorer
 
-## Explore GitHub and find your newest Open Source obsession.
+**Explore GitHub and find your newest Open Source obsession.**
 
 # Description
 GitHub Explorer is an Angular 7 web app with one simple goal. 
