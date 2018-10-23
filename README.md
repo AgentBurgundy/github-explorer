@@ -4,6 +4,8 @@
 
 **Explore GitHub and find your newest Open Source obsession.**
 
+[Join the Development Discord](https://discord.gg/rpmb6sA)
+
 # Description
 GitHub Explorer is an Angular 7 web app with one simple goal. 
 
