@@ -1,6 +1,6 @@
-# Github Explorer
+<img class="text-center" height="100" width="100" src="./src/assets/explorer.svg"/>
 
-<img height="100" width="100" src="./src/assets/explorer.svg"/>
+# Github Explorer
 
 ## Explore GitHub and find your newest Open Source obsession.
 
