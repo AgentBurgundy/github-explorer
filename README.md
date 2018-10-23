@@ -22,6 +22,15 @@ Angular itself has a dependency on Node.js 8.x / 10.x, be sure to install / upda
 
 [Node.js](https://nodejs.org/en/)
 
+# Development
+To start a local development server using the angular cli, simply type 
+
+`ng serve`
+
+or to open the app in a new window automatically
+
+`ng serve --o`
+
 # Credits
 Icons made by 
             <a href="http://www.freepik.com" title="Freepik">Freepik</a> 
